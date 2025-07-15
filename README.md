@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <h3 align="center">A passionate Full Stack Developer (MERN) from India</h3>
-
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a1b86c6b-4bdc-49fa-acad-b3e22f2ef5f9" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityapratapsingh10&label=Profile%20views&color=0e75b6&style=flat" alt="adityapratapsingh10" />
 </p>
