@@ -8,7 +8,7 @@
 </p>
 
 * 🎓 B.Tech Graduate from **DIT University**
-* 📊 Aspiring **Data Scientist** with a strong foundation in **Python, SQL, Statistics, Data Analysis, and Machine Learning**
+* 📊 Aspiring **Data Scientist** with a strong foundation in **Advanced Excel, Power BI, Python, SQL, Statistics, Data Analysis, and Machine Learning**
 * 🐍 Skilled in **Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn**
 * 🤖 Knowledge of **Machine Learning, NLP, Deep Learning fundamentals, EDA, Feature Engineering, and Model Evaluation**
 * 🗄️ Strong understanding of **SQL, MySQL, DBMS, and analytical queries**
